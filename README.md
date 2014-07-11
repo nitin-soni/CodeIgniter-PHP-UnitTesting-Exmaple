@@ -13,10 +13,10 @@ Now this days test driven development is preferred for big projects.
 To, use and see this in action follow this steps:-
 
 1) Clone the repository use this command 
-    <b>git clone git@github.com:nitin-soni/CodeIgniter-PHP-UnitTesting-Exmaple.git</b>
+    <b>git clone git@github.com:nitin-soni/CodeIgniter-PHPUnitTesting-Example.git</b>
     
 2) Move into the directory using 
-    <b>cd CodeIgniter-PHP-UnitTesting-Exmaple</b>
+    <b>cd CodeIgniter-PHPUnitTesting-Example</b>
     
 3) run command
     <b>composer install</b>
