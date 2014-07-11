@@ -19,5 +19,8 @@ To, use and see this in action follow this steps:-
     
 3) run command
     <b>composer install</b>
+    
+4) run the command 
+    <b>php unit</b> You will see the sample test result.
 
 this command will install php unit library and other dependencies.
