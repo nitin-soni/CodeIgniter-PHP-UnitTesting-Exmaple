@@ -3,8 +3,10 @@ CodeIgniter Unit Testing Example
 
 Now this days test driven development is preferred for big projects.
 
-<h3>Requirements to install and run this</h3>
-=================
+<h3>
+    Requirements to install and run this
+    =================
+</h3>
 1) PHP
 2) PHP Unit
 3) Composer
@@ -26,4 +28,5 @@ To, use and see this in action follow this steps:-
 this command will install php unit library and other dependencies.
 
 
+=================
 For any further information write me to soninitin27@gmail.com
