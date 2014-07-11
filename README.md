@@ -5,7 +5,6 @@ Now this days test driven development is preferred for big projects.
 
 <h3>
     Requirements to install and run this
-    =================
 </h3>
 1) PHP
 2) PHP Unit
