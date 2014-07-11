@@ -1,4 +1,4 @@
-laughing-bugfixes
+CodeIgniter Unit Testing Example
 =================
 
-codeIgniter-unit-testing
+Now this days test driven development is prefered for big projects.
