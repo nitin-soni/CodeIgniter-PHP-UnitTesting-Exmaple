@@ -12,13 +12,20 @@ if (!defined('BASEPATH'))
   |	http://codeigniter.com/user_guide/general/hooks.html
   |
  */
-
-$hook['display_override'] = array(
-    'class' => 'DisplayHook',
-    'function' => 'captureOutput',
-    'filename' => 'DisplayHook.php',
+//
+//$hook['display_override'] = array(
+//    'class' => 'DisplayHook',
+//    'function' => 'captureOutput',
+//    'filename' => 'DisplayHook.php',
+//    'filepath' => 'hooks'
+//);
+/*8
+$hook['post_controller_constructor'] = array(
+    'class'    => 'AclHook',
+    'function' => 'exec',
+    'filename' => 'AclHook.php',
     'filepath' => 'hooks'
 );
-
+*/
 /* End of file hooks.php */
 /* Location: ./application/config/hooks.php */
